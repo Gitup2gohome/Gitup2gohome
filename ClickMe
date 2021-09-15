@@ -1,0 +1,15 @@
+{when_opened}-//clear Info!/files/info~~!true?-[true]
+[When"ClickMe"`opened~~open/file/info/passwords/usernames!true
+[y/n]
+{y}
+when"info"~cleared{grab/graber}[stole?] !true
+_start`whenclick?~?true//whenstarting/txt_msg{{error/txt~off//when~completed~//signout_account//true
+[y/n]
+{y}
+:ClickMe_Download//link
+::idpuller?true~~ezfn_idpuller?true//when_on:pullid>Instagators?Replace Instagators//id|"id_new?<93753272746" Confirm Y/N?
+[Y]
+ezfn?/interact W/ Instagator=Replaced "id_new"=give old/nonreplaced(instagators_id)~~to~~me~~.(true?)
+!true
+[start~~when~~clicked]
+!true
